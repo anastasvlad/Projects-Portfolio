@@ -1,20 +1,19 @@
 # Projects-Portfolio
-Этот репозиторий содержит коллекцию различных проектов, выполненных в рамках профессиональной деятельности.  Каждый проект представляет собой завершенное решение или пример реализации определенной задачи области анализа данных.
+This repository contains a collection of various projects completed as part of professional activities. Each project represents a complete solution or an example of solving specific tasks in the field of data analysis.
 
-## Содержание
-Проекты в репозитории разбиты по категориям для удобной навигации:
+## Contents
+The projects in this repository are categorized for easy navigation:
 
-### Визуализация
+### Visualization
+Technologies used: Datalens, Tableau, Power BI.
 
-Используемые технологии: Datalens, Tableau, Power BI.
+### Data Analysis
+Tools used: Python, Pandas, NumPy, and more.
 
-### Анализ данных
 
-Используемые инструменты: Python, Pandas, NumPy и др.
+🚀 How to Use
+Select a project that interests you.
+Check the README.md file inside each folder for detailed information about the objectives, technologies, and instructions.
 
-🚀 Как использовать
-- Выберите проект, который вас интересует.
-- Ознакомьтесь с файлом README.md внутри каждой папки — там описаны цели, технологии.
-
-📞 Обратная связь
-Если у вас есть вопросы или предложения, то я всегда на связи в Telegram: @tttulip.
+📞 Feedback
+If you have any questions or suggestions, feel free to reach out via Telegram: @tttulip.
